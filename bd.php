@@ -18,12 +18,12 @@
   <body>
     <header>
       <div class="container-nav">
-        <a href="#"
+        <a href="index.html"
           ><img class="logo" src="imagenes/logoD1.png" alt="Logo"
         /></a>
         <nav>
           <ul>
-            <li><a href="#">INICIO</a></li>
+            <li><a href="index.html">INICIO</a></li>
             <li><a href="bd.php">BASE DE DATOS</a></li>
           </ul>
         </nav>
