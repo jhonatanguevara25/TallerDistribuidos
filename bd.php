@@ -42,7 +42,7 @@
   $ejecutar2 = mysqli_query($conn, $sql2) or die(mysqli_error($conn));
   $num_resultados = mysqli_num_rows($ejecutar2);
 
-  echo "Lista de Usuarios Registrados: <br><br>";
+  echo "<br><br><br><br><br><br>Lista de Usuarios Registrados: <br><br>";
 
   //$ver2=mysqli_fetch_row($ejecutar2);
 
